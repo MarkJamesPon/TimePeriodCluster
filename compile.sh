@@ -1,0 +1,1 @@
+g++ -I /usr/local/include/ -I /usr/include/python3.6m/ -o AITimePerCluster.out main.cpp ComputeCenter.cpp Data_Class.cpp -lpython3.6m -lm
